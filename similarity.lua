@@ -1,4 +1,4 @@
---A pretty generic implementation of cosine similarity
+--A pretty generic, yet oddly specific implementation of cosine similarity
 function getSimilarity(coordA, coordB)
 	local sum = 0
 	local magnitudeA = 0
